@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Concept Engenharia
 
-- 🌱 I’m currently learning **Power BISQL, Python**
+- 🌱 I’m currently learning **Power BI, SQL, Python**
 
 - 💬 Ask me about **Excel**
 
